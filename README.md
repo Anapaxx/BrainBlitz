@@ -8,13 +8,14 @@ Possibilità di creare una propria lista di amici, tramite apposite richieste di
 Badges da sbloccare completando svariate missioni; ad ogni badge corrisponde un gadget che può arricchire ulteriormente il profilo;
 Più modalità di gioco: allenamento, gioco online e sfida;
 Tre stati dell’utente: online (l’utente è nella home e può ricevere richieste di sfida), offline (l’utente è uscito dal sito) ed occupato (l’utente è in partita e non può ricevere richieste di sfida).
+
 🎮Modalità di gioco
 Offline
 Una modalità "Allenamento" che permette al giocatore di prendere confidenza con le diverse categorie, che possono essere scelte all’inizio di ogni partita, e di visualizzare le relative spiegazioni senza limite di tempo.
-
 Online
 Una richiesta di gioco verso altri utenti casuali online che permette di mettersi alla prova dopo la modalità di allenamento;
 Una sfida tra amici creata tramite una richiesta di gioco verso un utente specifico appartenente alla lista di amici.
+
 🪛Tecnologie
 XAMPP (per avviare MySQL e accedere al database) = ci ha permesso di testare il sito localmente e di creare il nostro database con i relativi dati;
 Node.js = ambiente di sviluppo per creare web server;
@@ -28,6 +29,7 @@ Express = un framework server-side per web app su Node;
 Bootstrap e CSS = linguaggi di stile (Bootstrap è un framework CSS) per descrivere l’aspetto di pagine web;
 Socket = un endpoint per consentire la comunicazione client-server in tempo reale;
 Visual Studio Code (Live share) = ci ha permesso di lavorare insieme anche quando non eravamo fisicamente nello stesso luogo, in particolare Live Share ha fatto in modo di mostrare file condivisi e cambiamenti apportati in tempo reale.
+
 ⚖️ Accessibilità
 Per rendere il sito di più facile comprensione a persone con condizioni visive che alterano la percezione del colore, abbiamo inserito nelle varie risposte delle domande icone differenti per simboleggiare le risposte corrette/sbagliate. Precedentemente il messaggio era prima veicolato semplicemente tramite i colori rosso/verde, facilmente confusi da persone affette da daltonismo di tipo deuteranopia e protanopia. Abbiamo inoltre inserito degli alt nelle immagini per una più facile lettura da parte degli screen reader.
 

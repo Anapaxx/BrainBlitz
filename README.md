@@ -77,7 +77,7 @@ parametri sostituiti successivamente con i valori reali solo dopo che la query �
 # ⬇️Installazione
 1. Clonare la cartella di GitHub: ‘ https://github.com/GbriRci/BrainBlitz ‘ 
 2. Installare le dipendenze tramite il comando ‘ npm i ’ 
-3. Inserire all’interno di XAMPP il database contenuto nella cartella backend/utils/database.txt e 
+3. Inserire all’interno di XAMPP il database contenuto nella cartella backend/src/utils/database.txt e 
 avviare Apache e MySQL 
 4. Aprire due terminali nelle cartelle Frontend e BackEnd e lanciare il comando ‘ npm run dev ’ 
 5. Visitare il link: ‘ http://localhost:5173/accesso ’ 

@@ -75,7 +75,7 @@ Inoltre per evitare SQL injection ci siamo avvalsi di query parametrizzate (ossi
 parametri sostituiti successivamente con i valori reali solo dopo che la query è stata compilata). 
 
 # ⬇️Installazione
-1. Clonare la cartella di GitHub: ‘ https://github.com/GbriRci/BrainBlitz ‘ 
+1. Clonare la cartella di GitHub: ‘ https://github.com/Anapaxx/BrainBlitz ‘ 
 2. Installare le dipendenze tramite il comando ‘ npm i ’ 
 3. Inserire all’interno di XAMPP il database contenuto nella cartella backend/src/utils/database.txt e 
 avviare Apache e MySQL 
